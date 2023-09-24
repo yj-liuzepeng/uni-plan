@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <view class="index">index</view>
+  <view>
+    <van-button type="primary">12</van-button>
+  </view>
 </template>
 
 <style lang="scss">

@@ -3,10 +3,7 @@
 </script>
 
 <template>
-  <view>
-    <!-- 插入模式 -->
-    <uni-calendar class="uni-calendar--hook" :showMonth="false" />
-  </view>
+  <view class="index">index123</view>
 </template>
 
 <style lang="scss">

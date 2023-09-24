@@ -59,6 +59,7 @@
     "@dcloudio/uni-quickapp-webview": "3.0.0-alpha-3080120230428001",
     "@dcloudio/uni-ui": "^1.4.28",
     "pinia": "2.0.36",
+    "vant": "^4.6.8",
     "vue": "3.3.4",
     "vue-i18n": "^9.2.2"
   },
@@ -72,6 +73,7 @@
     "@types/node": "^18.11.9",
     "@uni-helper/uni-app-types": "^0.5.7",
     "@uni-helper/uni-ui-types": "0.5.8",
+    "@vant/auto-import-resolver": "^1.0.1",
     "@vitejs/plugin-vue": "^3.0.3",
     "@vue/eslint-config-prettier": "^7.0.0",
     "@vue/eslint-config-typescript": "^11.0.0",
@@ -84,6 +86,7 @@
     "prettier": "^2.7.1",
     "sass": "^1.56.1",
     "typescript": "^4.9.3",
+    "unplugin-vue-components": "^0.25.2",
     "vite": "^4.0.3"
   }
 }
