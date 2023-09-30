@@ -4,10 +4,8 @@
 
 <template>
   <view>
-    <van-button type="primary">12</van-button>
+    <van-button type="primary">123</van-button>
   </view>
 </template>
 
-<style lang="scss">
-//
-</style>
+<style lang="scss"></style>
